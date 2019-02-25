@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ticket Doctor Express</string>
+    <string name="uf042">&#xf17b;</string>
+    <string name="ic_search">&#xf002;</string>
+    <string name="ic_plus_circle">&#xf055;</string>
+    <string name="ic_ticket">&#xf145;</string>
+    <string name="ic_list">&#xf03a;</string>
+    <string name="section_format">Section : %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>utils
+</resources>
